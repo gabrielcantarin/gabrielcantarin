@@ -43,7 +43,7 @@ while (newbie){
   ```json
   {
     "phone": "+5️⃣5️⃣ (1️⃣6️⃣) 9️⃣9️⃣7️⃣7️⃣4️⃣-4️⃣0️⃣7️⃣4️⃣", // Workaround to prevent bots
-    "email": "me@example.com"
+    "email": "gabriel🤖cantarin.com.br" // you'll might need .replace('🤖', '@')
   }
   ```
 
