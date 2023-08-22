@@ -1,6 +1,6 @@
 ### Hey I'm Gabriel Cantarin🤘🏻
-1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣9️⃣0️⃣ 🍼👶🏻
-## About me
+
+## Getting Start
 
 ### 👶🏻🍼From 1️⃣1️⃣ to 1️⃣5️⃣
 I'm coding since I was 11 years old, before my first real job most of my projects were simples using HTML, CSS and JS. I also played with MSSQL while creating MU Online Servers and some PHP for doing the websites, but in general most of my code was following tutorials on internet.
@@ -24,6 +24,8 @@ while (newbie){
 
 ### From 2️⃣2️⃣ to 2️⃣9️⃣
 
+
+## API Reference
 
 
 <!--
