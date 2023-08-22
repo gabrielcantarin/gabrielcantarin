@@ -12,13 +12,17 @@ When I turned 16 and started creating some real world applications, the first on
 Whoow! My first real work!!!
 ```
 while (newbie){
-  Waking up at 6:30 am to catch a bus to work from 8 am to 5 pm
-  Work on a variety of projects involving PHP, Angular, MongoDB, Postgres, and whatever else clients require.
-  After 6 pm, I catch another bus to the university and stay there until 11 pm, followed by one more bus ride home at midnight.
-  Finally, it's time to sleep.
+  awake("6:30am")->bus("7am", "8am");
+  work()->anything("8am","5pm")->paying(); //PHP, Angular, MongoDB, Postgres, and whatever else clients require
+  university()->bus("5:30pm", "7pm")->class("7pm","23pm")->bus("23pm", "00:30am")
+
+  if(!party){
+    sleep();
+  }
 }
 ```
 
+### From 2️⃣2️⃣ to 2️⃣9️⃣
 
 
 
