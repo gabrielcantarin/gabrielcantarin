@@ -1,9 +1,10 @@
-### Hey I'm Gabriel Cantarin🤘🏻
+### Hey, I'm Gabriel Cantarin 🤘🏻
 
-## BEFORE START
+## Before We Dive In
 - I've put this together because many ANSWERS to common and repetitive QUESTIONS can now be found in a simple documentation.
-- I've also grown tired of developers using "copy/paste" for readmes, pretending they know how to code. So, I'm demonstrating how to be creativity.
-
+- I've also grown tired of developers using "copy/paste" for readmes, pretending they know how to code. So, I'm demonstrating how to embrace creativity.
+- Just to clarify, I'm not a coach, teacher, or planning to sell any courses, nor am I going to start creating viral tweets.
+- The tone might sound a bit blunt, but it's all in good fun. I'm just someone who's really focused on good work. 😉
 
 ## Getting Started
 
