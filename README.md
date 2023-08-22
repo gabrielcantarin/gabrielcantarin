@@ -12,7 +12,10 @@ When I turned 16 and started creating some real world applications, the first on
 Whoow! My first real work!!!
 ```
 while (newbie){
-Waking up at 6:30 am to catch a bus to work from 8 am to 5 pm, I work on a variety of projects involving PHP, Angular, MongoDB, Postgres, and whatever else clients require. After 6 pm, I catch another bus to the university and stay there until 11 pm, followed by one more bus ride home at midnight. Finally, it's time to sleep.
+  Waking up at 6:30 am to catch a bus to work from 8 am to 5 pm
+  Work on a variety of projects involving PHP, Angular, MongoDB, Postgres, and whatever else clients require.
+  After 6 pm, I catch another bus to the university and stay there until 11 pm, followed by one more bus ride home at midnight.
+  Finally, it's time to sleep.
 }
 ```
 
