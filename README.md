@@ -1,7 +1,7 @@
 ### Hey I'm Gabriel Cantarin🤘🏻
 
 ## About me
-I've been coding since I was 11 years old, 
+I'm coding since I was 11 years old, but before my real first job most of my projects were made using simples HTML, CSS and some JS.
 
 <!--
 **gabrielcantarin/gabrielcantarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
