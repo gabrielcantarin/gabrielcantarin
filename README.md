@@ -30,9 +30,6 @@ while (newbie){
 ### Endpoints
 
 #### Get Contact Information
-
-- **Endpoint:** `/api/contact`
-
   Retrieves my contact information.
 
 - **GET Request:**
@@ -45,7 +42,7 @@ while (newbie){
 
   ```json
   {
-    "phone": "+123-456-7890",
+    "phone": "+5️⃣5️⃣ (1️⃣6️⃣) 9️⃣9️⃣7️⃣7️⃣4️⃣-4️⃣0️⃣7️⃣4️⃣", // Workaround to prevent bots
     "email": "me@example.com"
   }
   ```
