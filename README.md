@@ -20,7 +20,7 @@ while newbie:
     wake_up("6:30am")
     take_bus(TO_WORK, "7am", "8am")
     work("8am", "5pm").code("PHP, Angular, MongoDB, Postgres, and whatever else clients require")
-    take_bus(TO_UNIVERSITY, "11pm", "00:30am")
+    take_bus(TO_UNIVERSITY, "5:30pm", "7:00pm")
     attend_university().join_class("7pm", "11pm")
     take_bus(TO_HOME, "11pm", "00:30am")
 
