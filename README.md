@@ -27,6 +27,74 @@ while (newbie){
 
 ## API Reference
 
+### Endpoints
+
+#### Get Contact Information
+
+- **Endpoint:** `/api/contact`
+
+  Retrieves my contact information.
+
+- **GET Request:**
+
+  ```shell
+  GET /api/contact
+  ```
+
+- **Response:**
+
+  ```json
+  {
+    "phone": "+123-456-7890",
+    "email": "me@example.com"
+  }
+  ```
+
+#### Get Current Mood
+
+- **Endpoint:** `/api/mood`
+
+  Fetches my current mood.
+
+- **GET Request:**
+
+  ```shell
+  GET /api/mood
+  ```
+
+- **Response:**
+
+  ```json
+  {
+    "mood": "Optimistic and caffeinated ☕"
+  }
+  ```
+
+#### Get Daily Schedule
+
+- **Endpoint:** `/api/schedule`
+
+  Retrieves my daily schedule.
+
+- **GET Request:**
+
+  ```shell
+  GET /api/schedule
+  ```
+
+- **Response:**
+
+  ```json
+  {
+    "work": "8:00 AM - 5:00 PM",
+    "university": "6:00 PM - 11:00 PM",
+    "sleep": "12:00 AM - 6:30 AM"
+  }
+  ```
+
+---
+
+Feel free to customize these endpoints and responses to match your actual contact information, mood, and schedule. Remember, the goal is to have fun with your README.md and add a touch of humor to it!
 
 <!--
 **gabrielcantarin/gabrielcantarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
