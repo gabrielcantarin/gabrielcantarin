@@ -18,16 +18,16 @@ And then came my first official job, the moment I had been waiting for!
 ```python
 while newbie:
     wake_up("6:30am")
-    take_bus("7am", "8am")
+    take_bus(TO_WORK, "7am", "8am")
     work("8am", "5pm").code("PHP, Angular, MongoDB, Postgres, and whatever else clients require")
-    attend_university("5:30pm", "7pm").join_class("7pm", "11pm")
-    take_bus("11pm", "12:30am")
+    take_bus(TO_UNIVERSITY, "11pm", "00:30am")
+    attend_university().join_class("7pm", "11pm")
+    take_bus(TO_HOME, "11pm", "00:30am")
 
     if not party:
         sleep()
 ```
-This period was all about juggling work, university, and the occasional party (if I managed to squeeze one in). The code snippet above humorously captures the essence of those years.
-
+This period was all about juggling work, university, and the occasional (or not so occasional) party (if I managed to squeeze one in). T
 ### From 2️⃣2️⃣ to 2️⃣9️⃣
 Soon ... 
 - WAVING
