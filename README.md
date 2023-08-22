@@ -1,10 +1,10 @@
 ### Hey I'm Gabriel Cantarin🤘🏻
 
-## Getting Start
-
 ## BEFORE START
 - I've put this together because many ANSWERS to common and repetitive QUESTIONS can now be found in a simple documentation.
 - I've also grown tired of developers using "copy/paste" for readmes, pretending they know how to code. So, I'm demonstrating how to be creativity.
+
+## Getting Start
 
 ### 👶🏻🍼From 1️⃣1️⃣ to 1️⃣5️⃣
 I'm coding since I was 11 years old, before my first real job most of my projects were simple using HTML, CSS and JS. I also played with MSSQL while creating MU Online Servers and some PHP for doing few websites, but in general most of my code was following tutorials on internet.
