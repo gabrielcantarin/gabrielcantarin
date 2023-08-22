@@ -27,7 +27,9 @@ while newbie:
     if not party:
         sleep()
 ```
-This period was all about juggling work, university, and the occasional (or not so occasional) party (if I managed to squeeze one in). T
+This period was all about juggling work, university, and the occasional (or not so occasional) party (if I managed to squeeze one in).
+
+
 ### From 2️⃣2️⃣ to 2️⃣9️⃣
 Soon ... 
 - WAVING
