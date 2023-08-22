@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey I'm Gabriel Cantarin🤘🏻
+
+## About me
+I've been coding since I was 11 years old, 
 
 <!--
 **gabrielcantarin/gabrielcantarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
