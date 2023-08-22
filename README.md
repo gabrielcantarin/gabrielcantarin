@@ -23,7 +23,14 @@ while (newbie){
 ```
 
 ### From 2️⃣2️⃣ to 2️⃣9️⃣
-
+Soon ... 
+- WAVING
+- DRAPER UNVIERSITY
+- NUDESTARTER
+- PRIMEIRA MESA
+- CONSULTING
+- GENERAL SHOPPING
+- NOW
 
 ## API Reference
 
