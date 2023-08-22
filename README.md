@@ -8,7 +8,7 @@ I'm coding since I was 11 years old, before my first real job most of my project
 ### 👦🏻🎮 From 1️⃣6️⃣ to 1️⃣8️⃣
 When I turned 16 and started creating some real world applications, the first one was for a company that organizes sport competitions. This system was made with Delphi + Firebird + PHP + MySql ... Kinda weird but that was the solution I found for the offline needed that the company had plus sincronization with the website.
 
-### From 1️⃣9️⃣ to 2️⃣1️⃣
+### 🤓💻 From 1️⃣9️⃣ to 2️⃣1️⃣
 Whoow! My first real work!!!
 ```
 while (newbie){
