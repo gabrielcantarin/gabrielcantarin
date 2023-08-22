@@ -4,27 +4,29 @@
 - I've put this together because many ANSWERS to common and repetitive QUESTIONS can now be found in a simple documentation.
 - I've also grown tired of developers using "copy/paste" for readmes, pretending they know how to code. So, I'm demonstrating how to be creativity.
 
-## Getting Start
 
-### 👶🏻🍼From 1️⃣1️⃣ to 1️⃣5️⃣
-I'm coding since I was 11 years old, before my first real job most of my projects were simple using HTML, CSS and JS. I also played with MSSQL while creating MU Online Servers and some PHP for doing few websites, but in general most of my code was following tutorials on internet.
+Getting Started
+👶🏻🍼From 1️⃣1️⃣ to 1️⃣5️⃣
+I've been coding since I was 11 years old. Before I landed my first official job, most of my projects were fairly simple, involving HTML, CSS, and JS. During this time, I also dabbled with MSSQL while setting up MU Online Servers and used PHP for creating a few websites. To be honest, a lot of my code was following online tutorials.
 
-### 👦🏻🎮 From 1️⃣6️⃣ to 1️⃣8️⃣
-When I turned 16 and started creating some real world applications, the first one was for a company that organizes sport competitions. This system was made with Delphi + Firebird + PHP + MySql ... Kinda weird but that was the solution I found for the offline needed that the company had plus sincronization with the website.
+👦🏻🎮 From 1️⃣6️⃣ to 1️⃣8️⃣
+Around the age of 16, I stepped into the realm of developing real-world applications. My first notable project was for a company that managed sports competitions. The system I created was a blend of Delphi, Firebird, PHP, and MySQL — a somewhat unconventional mix. But it got the job done, allowing offline functionality while staying synchronized with the company's website.
 
-### 🤓💻 From 1️⃣9️⃣ to 2️⃣1️⃣
-Whoow! My first real work!!!
+🤓💻 From 1️⃣9️⃣ to 2️⃣1️⃣
+And then came my first official job, the moment I had been waiting for!
+
 ```
-while (newbie){
-  awake("6:30am")->bus("7am", "8am");
-  work()->anything("8am","5pm")->paying(); //PHP, Angular, MongoDB, Postgres, and whatever else clients require
-  university()->bus("5:30pm", "7pm")->class("7pm","23pm")->bus("23pm", "00:30am")
+while newbie:
+    wake_up("6:30am")
+    take_bus("7am", "8am")
+    work("8am", "5pm").code("PHP, Angular, MongoDB, Postgres, and whatever else clients require")
+    attend_university("5:30pm", "7pm").join_class("7pm", "11pm")
+    take_bus("11pm", "12:30am")
 
-  if(!party){
-    sleep();
-  }
-}
+    if not party:
+        sleep()
 ```
+This period was all about juggling work, university, and the occasional party (if I managed to squeeze one in). The code snippet above humorously captures the essence of those years.
 
 ### From 2️⃣2️⃣ to 2️⃣9️⃣
 Soon ... 
