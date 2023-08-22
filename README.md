@@ -5,17 +5,17 @@
 - I've also grown tired of developers using "copy/paste" for readmes, pretending they know how to code. So, I'm demonstrating how to be creativity.
 
 
-Getting Started
-👶🏻🍼From 1️⃣1️⃣ to 1️⃣5️⃣
+## Getting Started
+
+### 👶🏻🍼From 1️⃣1️⃣ to 1️⃣5️⃣
 I've been coding since I was 11 years old. Before I landed my first official job, most of my projects were fairly simple, involving HTML, CSS, and JS. During this time, I also dabbled with MSSQL while setting up MU Online Servers and used PHP for creating a few websites. To be honest, a lot of my code was following online tutorials.
 
-👦🏻🎮 From 1️⃣6️⃣ to 1️⃣8️⃣
+### 👦🏻🎮 From 1️⃣6️⃣ to 1️⃣8️⃣
 Around the age of 16, I stepped into the realm of developing real-world applications. My first notable project was for a company that managed sports competitions. The system I created was a blend of Delphi, Firebird, PHP, and MySQL — a somewhat unconventional mix. But it got the job done, allowing offline functionality while staying synchronized with the company's website.
 
-🤓💻 From 1️⃣9️⃣ to 2️⃣1️⃣
+### 🤓💻 From 1️⃣9️⃣ to 2️⃣1️⃣
 And then came my first official job, the moment I had been waiting for!
-
-```
+```python
 while newbie:
     wake_up("6:30am")
     take_bus("7am", "8am")
