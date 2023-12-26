@@ -1,5 +1,9 @@
 ### Hey, I'm Gabriel Cantarin 🤘🏻
 
+[![Visits Badge](https://badges.pufler.dev/visits/gabrielcantarin/gabrielcantarin)](https://badges.pufler.dev)
+
+
+
 ## Before We Dive In
 - I've put this together because many ANSWERS to common and repetitive QUESTIONS can now be found in a simple documentation.
 - I've also grown tired of developers using "copy/paste" for readmes, pretending they know how to code. So, I'm demonstrating how to embrace creativity.
